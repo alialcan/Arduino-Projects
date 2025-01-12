@@ -1,5 +1,5 @@
 #define LED 7
-#define SENSOR A0
+#define SENSOR 5
 
 int value=0;
 
