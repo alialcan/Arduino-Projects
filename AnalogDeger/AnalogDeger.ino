@@ -1,3 +1,5 @@
+// Potansiyometre ile analog veri okuma ve dijitale çevirme
+
 int deger=0;
 
 void setup() {
