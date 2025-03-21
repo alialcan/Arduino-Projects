@@ -1,3 +1,5 @@
+// Buton durumunu okuyup seri ekrana yazdırma
+
 #define BUTTON_PIN 7
 
 void setup() {
