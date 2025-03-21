@@ -1,3 +1,5 @@
+// Pull Down buton ile led yakma
+
 #define LED 7
 #define BUTTON 6
 
